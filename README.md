@@ -1,3 +1,3 @@
 # Animated-Login
 
-![screenshot](Exemplo.png?raw=true "screenshot")
+![screenshot](Example.png?raw=true "screenshot")
